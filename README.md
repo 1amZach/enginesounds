@@ -79,10 +79,6 @@ Changing the sound is blocked while the siren is on, because some siren resource
 
 Made by **IamZach**. Questions, bugs or ideas: [discord.gg/agn](https://discord.gg/agn)
 
-## Credits
-
-Inspired by [enginesound-menu](https://github.com/Gravxd/enginesound-menu) by Grav. This is a separate rewrite, no code is shared.
-
 ## License
 
 MIT
