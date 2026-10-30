@@ -5,6 +5,8 @@ lua54 'yes'
 name 'enginesounds'
 description 'Swap engine sounds in-game with live preview, synced to everyone'
 version '1.0.0'
+author 'IamZach'
+discord 'https://discord.gg/agn'
 
 shared_scripts {
     '@ox_lib/init.lua',

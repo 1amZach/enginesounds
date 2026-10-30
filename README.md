@@ -75,6 +75,10 @@ Changes are rate limited. Nothing gets anyone banned; bad requests are just igno
 
 Changing the sound is blocked while the siren is on, because some siren resources start making noise with the lights off if the audio changes mid-siren.
 
+## Support
+
+Made by **IamZach**. Questions, bugs or ideas: [discord.gg/agn](https://discord.gg/agn)
+
 ## Credits
 
 Inspired by [enginesound-menu](https://github.com/Gravxd/enginesound-menu) by Grav. This is a separate rewrite, no code is shared.
